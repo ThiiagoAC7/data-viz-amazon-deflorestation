@@ -16,3 +16,8 @@ Data Analysis and exploration about 3 different datasets.
     - Did the amazon Rainforest Degradation change the local climate ?
     - How does the number of fires affect the deflorestation of the amazon ?
     - Are the El Niño and La Niña major factors that impact the Amazon ?
+
+## Cool gif of interactive Pyplot map
+
+![map](map.gif) 
+
